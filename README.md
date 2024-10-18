@@ -48,7 +48,6 @@ Outside of study, I enjoy programming, exploring new technologies, and learning 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HuyLieu1603&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
 ## 💁: My Team
 Hello, we are Team03, a passionate and professional team in the field of [field of work, e.g., software development, web design, etc.]. Our team consists of members with diverse skills, including [list positions such as Backend Developer, Frontend Developer, UI/UX Designer, Tester, etc.], working together to create high-quality products that meet customer needs effectively.
 
