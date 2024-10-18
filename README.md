@@ -20,6 +20,10 @@ Outside of study, I enjoy programming, exploring new technologies, and learning 
   </a>
 </div>
 
+<div align="center">
+  :mailbox: Gmail: huylieu163@gmail.com
+</div>
+
 ## :fire: My Skills
 
 <div>
