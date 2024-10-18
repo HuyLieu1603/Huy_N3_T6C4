@@ -2,21 +2,21 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# ❤️‍🔥 About me
+# ℹ️ About me
 Hello, my name is Lieu Truong Gia Huy, and I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. With a passion for technology, I have experience in developing backend applications, building database management systems, and optimizing data processing performance.
 
-Outside of work, I enjoy programming, exploring new technologies, and learning more about artificial intelligence. I also like reading, jogging, and participating in sports activities to stay healthy and relax after work.
+Outside of study, I enjoy programming, exploring new technologies, and learning more about artificial intelligence. I also like reading, jogging, and participating in sports activities to stay healthy and relax after study.
 
 ## ☎️ Contact
 <div id="badges" align="center">
-  <a href="[your-facebook-URL](https://web.facebook.com/profile.php?id=100014781011286)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://web.facebook.com/profile.php?id=100014781011286">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -40,7 +40,7 @@ Outside of work, I enjoy programming, exploring new technologies, and learning m
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## ♓ My stats
+## :telescope: My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HuyLieu1603&theme=dark&background=000000)](https://git.io/streak-stats)
 
