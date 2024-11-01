@@ -40,10 +40,10 @@ Outside of study, I enjoy programming, exploring new technologies, and learning 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## :telescope: My Projects
- Movie App: [HUFLIX](https://github.com/HuyLieu1603/appxemphim)
+## 📋 My Projects
+ 🎥 Movie App: [HUFLIX](https://github.com/HuyLieu1603/appxemphim)
 
- Hotel Web: [H-Hotel](https://github.com/HuyLieu1603/WebQLKS)
+ 🏨 Hotel Web: [H-Hotel](https://github.com/HuyLieu1603/WebQLKS)
 
 ## :telescope: My stats
 
