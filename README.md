@@ -40,6 +40,11 @@ Outside of study, I enjoy programming, exploring new technologies, and learning 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## :telescope: My Projects
+Movie App : <a href="https://github.com/HuyLieu1603/appxemphim">
+
+Hotel Web : <a href="https://github.com/HuyLieu1603/WebQLKS">
+
 ## :telescope: My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HuyLieu1603&theme=dark&background=000000)](https://git.io/streak-stats)
