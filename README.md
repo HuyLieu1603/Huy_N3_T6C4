@@ -41,9 +41,9 @@ Outside of study, I enjoy programming, exploring new technologies, and learning 
 </div>
 
 ## 📋 My Projects
- 🎥 Movie App: [HUFLIX](https://github.com/HuyLieu1603/appxemphim)
+ 🎥 Movie App - Watch movies online application: [HUFLIX](https://github.com/HuyLieu1603/appxemphim)
 
- 🏨 Hotel Web: [H-Hotel](https://github.com/HuyLieu1603/WebQLKS)
+ 🏨 Hotel Web - hotel management website: [H-Hotel](https://github.com/HuyLieu1603/WebQLKS)
 
 ## :telescope: My stats
 
