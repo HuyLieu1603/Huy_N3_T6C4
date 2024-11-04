@@ -15,8 +15,8 @@ Outside of study, I enjoy programming, exploring new technologies, and learning 
   <a href="https://www.instagram.com/__yuh.ueil/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
+  <a href="[your-tiktok-URL](https://www.tiktok.com/@yuhueil?lang=vi-VN)">
+    <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
 </div>
 
